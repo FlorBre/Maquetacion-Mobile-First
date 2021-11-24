@@ -463,10 +463,10 @@ color: var(--bitcoin-orange);
     position: relative; /* por que dsps viene una etiqueta de p ( recomendado) que llevara position absolute para flotarlo*/
     scroll-snap-align: center; /*si me posiciono en el medio de 2 tarjetas, para que centre automaticamente el elemento*/
     width: 70%;
-    min-width: 190px; /*porque si pongo 320px, va a ocupar el ancho de su contenedor padre y eso no queremos, por que este tiene que ser mas chico*/
-    max-width: 300px; /* para qie la tarjeta no se haga mas grande de los 300px*/
-    height: 270px;
-    margin: 30px 10px 0 60px;
+    min-width: 230px;
+    max-width: 300px;
+    height: 250px;
+ margin: 50px 30px 0;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
