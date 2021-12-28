@@ -180,7 +180,7 @@ font-weight: 500;
     font-family: "Inter", sans-serif;
 }
 
-.main-currency-table , .currency-table-title   {
+.main-currency-table .currency-table-title   {
 margin-top: 10px;
 margin-right: 90px;
 font-family: DM Sans;
@@ -191,7 +191,7 @@ color: var(--bitcoin-orange);
 margin: 0 auto;
 }
 
-.main-commissions-table , .commissions-table--title {
+.main-commissions-table .commissions-table--title {
     margin-top: 20px;
     margin-right: 90px;
     font-family: DM Sans;
